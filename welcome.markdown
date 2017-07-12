@@ -1,8 +1,7 @@
 ---
 title: welcome
 date: 2017-07-12 09:12:00 Z
-Key:
-- 
+layout: page
 ---
 
 welcome to testing cs
